@@ -1,2 +1,1 @@
-# demo-server-socket
-Demo of Server Socket
+# Demo of Server Socket
